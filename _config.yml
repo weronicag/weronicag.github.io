@@ -84,7 +84,7 @@ author:
   avatar           : "weronica.png"
   bio              : "Data Scientist @Metromile"
   location         : "San Francisco, CA"
-  employer         : "https://www.metromile.com/"
+  employer         : #"https://www.metromile.com/"
   pubmed           : 
   googlescholar    : 
   email            :
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
