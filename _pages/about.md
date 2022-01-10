@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Weronica Green. I am currently a Data Scientist at Metromile working on fraud detection and vehicle multi-source sensor data. I completed a Master in Science in Data Science from the University of San Franciso in August 2021. I also have my Undergraduate Degree in Business Administration from Brooklyn College.
+My name is Weronica Green. I am currently a Data Scientist at [Metromile](https://www.metromile.com/) working on fraud detection and vehicle multi-source sensor data. I completed a Master in Science in Data Science from the University of San Franciso in August 2021. I also have my Undergraduate Degree in Business Administration from Brooklyn College.
 
 Outside of work, I am an active hiker, ex-national team basketball player, and passionate baker. 
   
