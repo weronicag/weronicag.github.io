@@ -17,11 +17,10 @@ Outside of work, I am an active hiker, ex-national team basketball player, and p
 
 Recent Projects
 ======
-* **Classification of motion sensor data**
+* Classification of motion sensor data
 Cleaned, analyzed, and modeled motion sensor data in Spark and Spark ML to classify human activities with a 0.93 AUC score.
-* **[Article recommendation engine] (https://github.com/weronicag/usf-projects/tree/main/article_recommendation_sys)**
+* [Article recommendation engine] (https://github.com/weronicag/usf-projects/tree/main/article_recommendation_sys)**
 Built a web server using flask and EC2 to display BBC article recommendations using word2vec.
-* [**K-Means++ Clustering Algorithm Implementation**] (https://github.com/weronicag/usf-projects/tree/main/kmeans)  Basic ML clustering algorithem implementation and performance comparison.
+* [K-Means++ Clustering Algorithm Implementation] (https://github.com/weronicag/usf-projects/tree/main/kmeans)  Basic ML clustering algorithem implementation and performance comparison.
 
-* [**Random Forest algorithm implementation(comparable to scikit-learn’s)
-* [**K-Means++ Clustering Algorithm Implementation**]
+* Random Forest algorithm implementation(comparable to scikit-learn’s)
