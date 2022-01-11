@@ -184,9 +184,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  #talks:
-  #  output: false
-  #  permalink: /:collection/:path/
+  talks:
+    output: false
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -238,12 +238,12 @@ defaults:
       comment: true
   # _talks
   - scope:
-      path: #""
-      type: #talks
+      path: ""
+      type: talks
     values:
-      layout: #talk
-      author_profile: #true
-      share: #true
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
