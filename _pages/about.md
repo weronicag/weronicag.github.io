@@ -23,3 +23,5 @@ Cleaned, analyzed, and modeled motion sensor data in Spark and Spark ML to class
 Built a web server using flask and EC2 to display BBC article recommendations using word2vec.
 * [K-Means++ Clustering Algorithm Implementation](https://github.com/weronicag/usf-projects/tree/main/kmeans)  Basic ML clustering algorithem implementation and performance comparison.
 * Random Forest algorithm implementation(comparable to scikit-learn’s)
+* Implementation of Linear and Logistic Regression with Gradient Descent ...
+* [Search Engine Hash Table Implementation](https://github.com/weronicag/usf-projects/tree/main/Search%20Engine%20Implementation)
