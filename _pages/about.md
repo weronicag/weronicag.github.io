@@ -20,6 +20,7 @@ Recent Projects
 ======
 * Classification of motion sensor data
 Cleaned, analyzed, and modeled motion sensor data in Spark and Spark ML to classify human activities with a 0.93 AUC score.
+* [Neural Style Transfer] (https://github.com/weronicag/Neural_Style_Transfer/blob/main/Neural_Style_Transfer.ipynb)
 * [Article recommendation engine](https://github.com/weronicag/usf-projects/tree/main/article_recommendation_sys)
 Built a web server using flask and EC2 to display BBC article recommendations using word2vec.
 * [K-Means++ Clustering Algorithm Implementation](https://github.com/weronicag/usf-projects/tree/main/kmeans)  Basic ML clustering algorithem implementation and performance comparison.
