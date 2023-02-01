@@ -16,8 +16,16 @@ I completed a Master in Science in Data Science from the University of San Franc
 Outside of work, I am an active hiker, ex-national team basketball player, and passionate baker. 
   
 
-CV
-======
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
 
 Education
 ======
