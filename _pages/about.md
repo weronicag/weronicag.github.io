@@ -17,12 +17,9 @@ Outside of work, I am an active hiker, ex-national team basketball player, and p
   
 
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+layout: project
+title: Project1
+index: 0
 ---
 
 {% include base_path %}
