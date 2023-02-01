@@ -14,7 +14,10 @@ My name is Weronica Green. I am currently a Data Scientist at [Lemonade](https:/
 I completed a Master in Science in Data Science from the University of San Francisco. I also have my Undergraduate Degree in Business Administration from Brooklyn College.
 
 Outside of work, I am an active hiker, ex-national team basketball player, and passionate baker. 
-  
+ 
+ 
+
+
 
 # CV
 
@@ -23,10 +26,12 @@ Education
 * M.S. in Data Science, San Francisco University
 * B.S. in Business Admininstration, Brooklyn College
 
+
 Work experience
 ======
 * Present: Data Scientist
   * [Lemonade](https://www.lemonade.com/)
+  
   
 Skills
 ======
